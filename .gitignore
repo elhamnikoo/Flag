@@ -13,6 +13,10 @@ body { background-color:#ddd }
 <div class="top">&nbsp;</div>
 <div class="middle">الله</div>
 <div class="bottom">&nbsp;</div>
+
+
+<p> This text is bold </p>
+<img src="http://iranmap.facts.co/iranmap2.png" alt="iran map">
 </body>
 
 </html>
