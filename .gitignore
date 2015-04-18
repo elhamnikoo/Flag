@@ -1,23 +1,13 @@
-<html>
-<head>
-<title>IRAN FLAG<title>
-<style type="text/css">
-body { background-color:#ddd }
-.top { background-color:green }
-.middle { background-color:white; text-align:center }
-.bottom { background-color:red }
-</style>
-</head>
-
-<body>
-<div class="top">&nbsp;</div>
-<div class="middle">الله</div>
-<div class="bottom">&nbsp;</div>
-
-
-<p> This text is bold </p>
-<img src="http://iranmap.facts.co/iranmap2.png" alt="iran map">
-</body>
-
-</html>
-
+*.log
+.htaccess
+sitemap.xml
+sitemap.xml.gz
+wp-config.php
+wp-content/advanced-cache.php
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
+wp-content/wp-cache-config.php
