@@ -1,0 +1,19 @@
+
+<head>
+<title>IRAN FLAG<title>
+<style type="text/css">
+body { background-color:#ddd }
+.top { background-color:green }
+.middle { background-color:white; text-align:center }
+.bottom { background-color:red }
+</style>
+</head>
+
+<body>
+<div class="top">&nbsp;</div>
+<div class="middle">الله</div>
+<div class="bottom">&nbsp;</div>
+</body>
+
+</html>
+
